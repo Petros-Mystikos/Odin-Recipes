@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+div{
+    max-width: 700px;
+    text-align: center;
+    background-color: wheat;
+    margin: 150px auto;
+    border: 8px solid gray;
+}
+
+h1{
+    display: inline-block;
+    margin:20px auto;
+    font-size: 4rem;
+}
+
+h2{
+    display: inline-block;
+    margin-bottom:100px ;
+    margin-bottom: 350px auto;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+a{
+    display: inline-block;
+    margin: 10px auto;
+    text-decoration: none;
+    color:  lightslategray;
+    display: block;
+    font-size: 2rem;
+}
